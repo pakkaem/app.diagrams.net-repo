@@ -1,44 +1,59 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Halaman-1" id="IuEDEG9HTNQi0Q0mBRNn">
-    <mxGraphModel dx="872" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mqachVrFvuXrussJmTJq-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sistem Deteksi&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Kantuk&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="210" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sistem Deteksi&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Kantuk&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="210" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqachVrFvuXrussJmTJq-3" target="mqachVrFvuXrussJmTJq-1">
+        <mxCell id="_-gLXuR3ZAT3PRi8hxih-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqachVrFvuXrussJmTJq-1" target="mqachVrFvuXrussJmTJq-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;MRL Eye Dataset&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="150" width="120" height="80" as="geometry" />
+        <mxCell id="mqachVrFvuXrussJmTJq-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Model&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Sistem Deteksi&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Kantuk&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="349" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Metrik Evaluasi&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Model&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Akurasi Model&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="480" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqachVrFvuXrussJmTJq-6" target="mqachVrFvuXrussJmTJq-1">
+        <mxCell id="_-gLXuR3ZAT3PRi8hxih-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqachVrFvuXrussJmTJq-2" target="mqachVrFvuXrussJmTJq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Yawn Dataset&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="270" width="120" height="80" as="geometry" />
+        <mxCell id="mqachVrFvuXrussJmTJq-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Algoritma Haar Cascade&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="119" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-7" value="[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="175" width="60" height="30" as="geometry" />
+        <mxCell id="mqachVrFvuXrussJmTJq-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mqachVrFvuXrussJmTJq-3" target="mqachVrFvuXrussJmTJq-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-8" value="[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="mqachVrFvuXrussJmTJq-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;MRL Eye Dataset (84498)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="579" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-11" value="[3] Lim, Ng K. W., dan Ng S. L." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="170" height="30" as="geometry" />
+        <mxCell id="_-gLXuR3ZAT3PRi8hxih-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqachVrFvuXrussJmTJq-4" target="mqachVrFvuXrussJmTJq-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqachVrFvuXrussJmTJq-12" value="[3]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="230" width="20" height="30" as="geometry" />
+        <mxCell id="mqachVrFvuXrussJmTJq-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Metrik Evaluasi&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Model&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="349" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mqachVrFvuXrussJmTJq-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Akurasi Model&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="349" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mqachVrFvuXrussJmTJq-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mqachVrFvuXrussJmTJq-6" target="mqachVrFvuXrussJmTJq-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqachVrFvuXrussJmTJq-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Yawn Dataset (5119)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mqachVrFvuXrussJmTJq-7" value="[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqachVrFvuXrussJmTJq-8" value="[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqachVrFvuXrussJmTJq-11" value="&lt;div&gt;[1] Djerarda, 2022&lt;/div&gt;&lt;div&gt;[2] Vazquez, 2021&lt;/div&gt;&lt;div&gt;[3] Lim, 2023&lt;/div&gt;&lt;div&gt;[4] Puteri dan Utaminingrum, 2020&lt;br&gt;[5] Udayana dkk., 2022&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="119" y="180" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_-gLXuR3ZAT3PRi8hxih-5" value="[3]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_-gLXuR3ZAT3PRi8hxih-7" value="[4]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_-gLXuR3ZAT3PRi8hxih-9" value="[5]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
